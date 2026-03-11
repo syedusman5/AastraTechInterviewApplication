@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C17909-A977-1138-F7F4-8BF692B199C6}|AstraCRUDApplication\\AstraCRUDApplication.csproj|d:\\interview\\aastratechinterviewtask\\astracrudapplication\\astracrudapplication\\models\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C17909-A977-1138-F7F4-8BF692B199C6}|AstraCRUDApplication\\AstraCRUDApplication.csproj|solutionrelative:astracrudapplication\\models\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C17909-A977-1138-F7F4-8BF692B199C6}|AstraCRUDApplication\\AstraCRUDApplication.csproj|d:\\interview\\aastratechinterviewtask\\astracrudapplication\\astracrudapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C17909-A977-1138-F7F4-8BF692B199C6}|AstraCRUDApplication\\AstraCRUDApplication.csproj|solutionrelative:astracrudapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C17909-A977-1138-F7F4-8BF692B199C6}|AstraCRUDApplication\\AstraCRUDApplication.csproj|d:\\interview\\aastratechinterviewtask\\astracrudapplication\\astracrudapplication\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C17909-A977-1138-F7F4-8BF692B199C6}|AstraCRUDApplication\\AstraCRUDApplication.csproj|solutionrelative:astracrudapplication\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C17909-A977-1138-F7F4-8BF692B199C6}|AstraCRUDApplication\\AstraCRUDApplication.csproj|d:\\interview\\aastratechinterviewtask\\astracrudapplication\\astracrudapplication\\models\\tablemodels\\tabledepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C17909-A977-1138-F7F4-8BF692B199C6}|AstraCRUDApplication\\AstraCRUDApplication.csproj|solutionrelative:astracrudapplication\\models\\tablemodels\\tabledepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C17909-A977-1138-F7F4-8BF692B199C6}|AstraCRUDApplication\\AstraCRUDApplication.csproj|d:\\interview\\aastratechinterviewtask\\astracrudapplication\\astracrudapplication\\models\\employeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C17909-A977-1138-F7F4-8BF692B199C6}|AstraCRUDApplication\\AstraCRUDApplication.csproj|solutionrelative:astracrudapplication\\models\\employeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C17909-A977-1138-F7F4-8BF692B199C6}|AstraCRUDApplication\\AstraCRUDApplication.csproj|d:\\interview\\aastratechinterviewtask\\astracrudapplication\\astracrudapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C17909-A977-1138-F7F4-8BF692B199C6}|AstraCRUDApplication\\AstraCRUDApplication.csproj|solutionrelative:astracrudapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\AstraCRUDApplication\\Program.cs",
+              "RelativeDocumentMoniker": "AstraCRUDApplication\\Program.cs",
+              "ToolTip": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\AstraCRUDApplication\\Program.cs",
+              "RelativeToolTip": "AstraCRUDApplication\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:04:23.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\AstraCRUDApplication\\Services\\JWTService.cs",
+              "RelativeDocumentMoniker": "AstraCRUDApplication\\Services\\JWTService.cs",
+              "ToolTip": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\AstraCRUDApplication\\Services\\JWTService.cs",
+              "RelativeToolTip": "AstraCRUDApplication\\Services\\JWTService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:58:30.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableDepartment.cs",
+              "DocumentMoniker": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\AstraCRUDApplication\\Models\\TableModels\\TableDepartment.cs",
+              "RelativeDocumentMoniker": "AstraCRUDApplication\\Models\\TableModels\\TableDepartment.cs",
+              "ToolTip": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\AstraCRUDApplication\\Models\\TableModels\\TableDepartment.cs",
+              "RelativeToolTip": "AstraCRUDApplication\\Models\\TableModels\\TableDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:05:21.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginHandler.cs",
+              "DocumentMoniker": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\AstraCRUDApplication\\Models\\LoginHandler.cs",
+              "RelativeDocumentMoniker": "AstraCRUDApplication\\Models\\LoginHandler.cs",
+              "ToolTip": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\AstraCRUDApplication\\Models\\LoginHandler.cs",
+              "RelativeToolTip": "AstraCRUDApplication\\Models\\LoginHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:01:59.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeHandler.cs",
+              "DocumentMoniker": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\AstraCRUDApplication\\Models\\EmployeeHandler.cs",
+              "RelativeDocumentMoniker": "AstraCRUDApplication\\Models\\EmployeeHandler.cs",
+              "ToolTip": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\AstraCRUDApplication\\Models\\EmployeeHandler.cs",
+              "RelativeToolTip": "AstraCRUDApplication\\Models\\EmployeeHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:01:47.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\AstraCRUDApplication\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "AstraCRUDApplication\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Interview\\AastraTechInterviewTask\\AstraCRUDApplication\\AstraCRUDApplication\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "AstraCRUDApplication\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:01:40.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
